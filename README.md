@@ -1,5 +1,5 @@
 # Classifying-Qubit-Eigenstates
-Using recurrent neural networks to classify superconducting qubit eigenstates that have been probed by a microwave mode.
+Using recurrent neural networks (RNNs) and other models to classify superconducting qubit eigenstates that have been probed by a microwave mode. The RNN model with 3 stacked LSTM cells (RNN_LSTM_3.ipynb) works best.
 
 The datasets are too large for uploading them to GitHub but you can download one here  
 https://drive.google.com/file/d/1PNJjoMxajTBJAemM7cR968F0ewL1yMKt/view?usp=sharing,  
